@@ -1,2 +1,10 @@
 # Sample-REST-api-Django-project
-Project Overview: Develop a Django web app that displays a D3 chart after user login. Provide the same chart data via an authenticated REST API endpoint.  Technologies: Utilize Django, Django REST Framework, Django NVD3, and Cookiecutter Django. Manage environments with Pyenv, Pyenv-virtualenv, NVM, and NPM.
+Objective: Create a Django web application that displays a D3 chart upon successful login and provides the chart data via a REST API endpoint upon successful authentication.
+Tools & Technologies:
+Django: Web framework.
+Django REST Framework: For building the REST API.
+Django NVD3: Wrapper for NVD3 (which is based on D3.js).
+Cookiecutter Django: For project scaffolding.
+Pyenv & Pyenv-virtualenv: Python version and virtual environment management.
+Pip: Python package installer.
+NVM & NPM: Node.js version and package management.
